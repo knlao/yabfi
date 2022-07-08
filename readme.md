@@ -4,7 +4,7 @@ A simple interpreter for running brainf code
 
 ## Build
 
-`g++ -o yabfi yabfi.c`
+`gcc -o yabfi yabfi.c`
 
 ## Run
 
